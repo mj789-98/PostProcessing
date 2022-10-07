@@ -15,6 +15,8 @@ For versions of Unity starting from 2017.2+, use version 2.3.0. For older versio
 
 To report bugs or other issues, use the Unity Bug Tracker. To see how, read [this](https://unity3d.com/unity/qa/bug-reporting).
 
+The package might create issue with new Unity version, you have to reimport the whole project.
+
 License
 -------
 
